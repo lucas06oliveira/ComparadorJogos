@@ -69,4 +69,4 @@ FUNCIONALIDADES IMPLEMENTADAS
   economia em reais em relação à plataforma mais cara.
 - Tratamento de jogos indisponíveis em alguma plataforma (barra cinza
   e texto "Indisponível" no tooltip), sem gerar erros.
-- Preços formatados como moeda brasileira usando o pacote intl.
+- Preços formatados como moeda brasileira usando o pacote intl..
